@@ -1,1 +1,1 @@
-print 'hecho'
+from calculos import suma, resta
